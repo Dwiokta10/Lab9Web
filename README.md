@@ -33,6 +33,8 @@ Hanya pengguna yang sudah login yang bisa mengakses halaman utama `index.php`.
   - Efek UI sederhana dengan `assets/main.js`
 
 <img width="1911" height="1117" alt="Cuplikan layar 2025-11-24 134453" src="https://github.com/user-attachments/assets/38109df4-c0e0-4c23-885c-d5fd7e8dd312" />
+<img width="1919" height="1120" alt="Cuplikan layar 2025-11-24 134707" src="https://github.com/user-attachments/assets/fac268c3-9e65-4fb2-809c-58b205a2f5d9" />
+
 
 
 ## Struktur Folder (Utama)

@@ -1,9 +1,11 @@
 # PHP MODULAR
 
-- **Nama**  : Dwi Okta Ramadhani  
-- **NIM**   : 312410056  
-- **Kelas** : TI.24.A1  
-- **Mata Kuliah** : Bahasa Pemrograman Web 1 
+|                |                    |
+| ------------------ | ------------------ |
+|      _Nama_    | Dwi Okta Ramadhani |
+|      _NIM_     |      312410056     |
+|     _Kelas_    |      TI.24.A1      |
+|  _Mata Kuliah_ | Bahasa Pemrograman Web 1 |
 
 Aplikasi **Manajemen Barang** dengan fitur **login, register, dan logout** berbasis PHP & MySQL.
 Hanya pengguna yang sudah login yang bisa mengakses halaman utama `index.php`. 

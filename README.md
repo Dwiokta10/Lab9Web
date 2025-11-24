@@ -32,6 +32,9 @@ Hanya pengguna yang sudah login yang bisa mengakses halaman utama `index.php`.
   - Ikon dari Font Awesome
   - Efek UI sederhana dengan `assets/main.js`
 
+<img width="1911" height="1117" alt="Cuplikan layar 2025-11-24 134453" src="https://github.com/user-attachments/assets/38109df4-c0e0-4c23-885c-d5fd7e8dd312" />
+
+
 ## Struktur Folder (Utama)
 
 ```text
